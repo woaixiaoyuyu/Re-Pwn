@@ -1,5 +1,5 @@
 # PWN
-Quoting a quote from a blogger<br>
+Quoting a paragraph from a blogger<br>
 Pwn is an art.<br>
 Pwn is a romantic dance with another programmer’s mind and thought.<br>
 U even have never seen each other,but ur thought collision occurs here in such a romantic way.<br>
